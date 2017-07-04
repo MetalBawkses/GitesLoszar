@@ -1,4 +1,3 @@
-
 print("Hello I'm Gittie")
 
 
@@ -12,5 +11,5 @@ def add(a, b):
     return a + b
 
 
-def introduce():
-    print("Ne beszélj ilyen csúnyán")
+def introduce(name):
+    print("Hello, my name is " + name + name + name)

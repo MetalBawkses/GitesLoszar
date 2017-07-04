@@ -13,3 +13,7 @@ def add(a, b):
 
 def introduce(name):
     print("Hello, my name is " + name + name + name)
+
+
+def testfunc(bla, blabla):
+    print("lofasz")

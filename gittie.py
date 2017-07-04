@@ -16,4 +16,6 @@ def introduce(name):
 
 
 def testfunc(bla, blabla):
+    print("lofasz")
+    print("No way")
     return bla**blabla

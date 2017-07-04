@@ -10,3 +10,7 @@ def joke(name):
 
 def add(a, b):
     return a + b
+
+
+def introduce():
+    print("Lofasz")

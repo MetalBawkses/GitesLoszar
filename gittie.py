@@ -19,3 +19,7 @@ def testfunc(bla, blabla):
     print("lofasz")
     print("No way")
     return bla**blabla
+
+
+def shout():
+    return("nothing")

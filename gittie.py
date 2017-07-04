@@ -13,4 +13,4 @@ def add(a, b):
 
 
 def introduce():
-    print("Lofasz")
+    print("Ne beszélj ilyen csúnyán")
